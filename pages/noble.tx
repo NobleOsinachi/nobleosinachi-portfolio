@@ -1,0 +1,6 @@
+export default function Noble(){
+    return (
+<h1>Noble</h1>
+
+    );
+}
