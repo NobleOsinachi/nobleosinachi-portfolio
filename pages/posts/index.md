@@ -1,6 +1,6 @@
 ---
-type: posts
-title: Posts
+type: social-media
+title: Social Media
 date: 2021-03-18
 ---
 
