@@ -3,7 +3,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
   const meta = {
     title: 'Portfolio - Noble Osinachi',
-    description: '.NET Full Stack Software Developer',
+    description: '.NET Full Stack Software Engineer',
     // image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
      image: 'https://nobleosinachi.github.io/images/nobleosinachi.png'
   }
